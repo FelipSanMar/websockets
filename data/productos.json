@@ -1,0 +1,56 @@
+[
+  {
+    "id": 2,
+    "title": "DTH11",
+    "description": "Sensor temperatura y humedad",
+    "code": "P020",
+    "price": 9,
+    "stock": 150,
+    "category": "Sensor Electrónica",
+    "thumbnails": [
+      "dth11.jpg"
+    ],
+    "status": true
+  },
+  {
+    "id": 3,
+    "title": "DSO-2090",
+    "description": "Osciloscopio",
+    "code": "P85",
+    "price": 80,
+    "stock": 5,
+    "category": "Instrumentos Electrónica",
+    "thumbnails": [
+      "ds0.jpg",
+      "ds01.jpg",
+      "ds02.jpg"
+    ],
+    "status": true
+  },
+  {
+    "id": 4,
+    "title": "Banana Pi M2 Zero",
+    "description": "Placa de desarrollo",
+    "code": "P020",
+    "price": 30,
+    "stock": 10,
+    "category": "Electrónica",
+    "thumbnails": [
+      "bpi.jpg"
+    ],
+    "status": true
+  },
+  {
+    "id": 4,
+    "title": " M2 Zero",
+    "description": "Placa de desarrollo",
+    "code": "P01000",
+    "price": 30,
+    "stock": 10,
+    "category": "Electrónica",
+    "thumbnails": [
+      "bpi.jpg"
+    ],
+    "status": true
+  }
+]
